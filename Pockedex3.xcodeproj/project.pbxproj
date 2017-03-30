@@ -12,6 +12,7 @@
 		18EEF6421E8D529300CD1821 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18EEF6401E8D529300CD1821 /* Main.storyboard */; };
 		18EEF6441E8D529300CD1821 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18EEF6431E8D529300CD1821 /* Assets.xcassets */; };
 		18EEF6471E8D529300CD1821 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18EEF6451E8D529300CD1821 /* LaunchScreen.storyboard */; };
+		18EEF64F1E8D564D00CD1821 /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = 18EEF64E1E8D564D00CD1821 /* pokemon.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		18EEF6431E8D529300CD1821 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		18EEF6461E8D529300CD1821 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		18EEF6481E8D529300CD1821 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18EEF64E1E8D564D00CD1821 /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				18EEF63E1E8D529300CD1821 /* ViewController.swift */,
 				18EEF6401E8D529300CD1821 /* Main.storyboard */,
 				18EEF6431E8D529300CD1821 /* Assets.xcassets */,
+				18EEF64E1E8D564D00CD1821 /* pokemon.csv */,
 				18EEF6451E8D529300CD1821 /* LaunchScreen.storyboard */,
 				18EEF6481E8D529300CD1821 /* Info.plist */,
 			);
@@ -126,6 +129,7 @@
 			files = (
 				18EEF6471E8D529300CD1821 /* LaunchScreen.storyboard in Resources */,
 				18EEF6441E8D529300CD1821 /* Assets.xcassets in Resources */,
+				18EEF64F1E8D564D00CD1821 /* pokemon.csv in Resources */,
 				18EEF6421E8D529300CD1821 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
